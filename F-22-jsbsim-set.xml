@@ -1087,7 +1087,7 @@
 				<standby-freq type="double">115.8</standby-freq>
 			</frequencies>
 		</nav>
-<WCS include ="System/weapons.xml"/>
+
 		
 		
 
